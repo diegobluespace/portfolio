@@ -1,0 +1,1 @@
+var e=()=>matchMedia(`(prefers-reduced-motion: reduce)`).matches,t=()=>matchMedia(`(hover: none)`).matches;export{e as n,t};

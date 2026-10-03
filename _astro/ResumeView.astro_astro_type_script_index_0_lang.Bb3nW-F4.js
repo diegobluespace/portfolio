@@ -1,0 +1,1 @@
+import{n as e,t}from"./lifecycle.BvghS0iT.js";e(()=>{let e=document.querySelector(`[data-print]`);if(!e)return;let n=t();return e.addEventListener(`click`,()=>window.print(),{signal:n.signal}),n.dispose});
