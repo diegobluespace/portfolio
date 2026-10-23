@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><rect width="512" height="512" rx="112" fill="#2169f0"/><svg x="56" y="148" width="400" height="212.96296296296296" viewBox="0 0 216 115">
+  <polygon id="beak" points="95.02,85 121.71,85 124,88.5 124,90.5 111.49,115 105.53,115 93,90.5 93,89.5" fill="#E2EBF6"/>
+  <circle id="eye-left" cx="57.63" cy="55.61" r="47.38" fill="#FFFFFF"/>
+  <circle id="eye-right" cx="159.88" cy="55.24" r="47.07" fill="#FFFFFF"/>
+  <circle id="pupil-left" cx="59.41" cy="57.50" r="20.03" fill="#15365e"/>
+  <circle id="pupil-right" cx="157.93" cy="57.43" r="19.98" fill="#15365e"/>
+</svg></svg>

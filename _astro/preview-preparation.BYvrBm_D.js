@@ -1,0 +1,1 @@
+function e(e,t,n){let r;e.addEventListener(`project-preview:prepare`,e=>{let{waitUntil:n}=e.detail;if(!r)try{let e=t();e&&(r=e.finally(()=>{r=void 0}))}catch(e){r=Promise.reject(e).finally(()=>{r=void 0})}r&&n(r)},{signal:n})}export{e as t};

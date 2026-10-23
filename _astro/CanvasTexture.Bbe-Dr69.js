@@ -1,0 +1,1 @@
+import{w as e}from"./WebGLRenderer.z-hVGRMA.js";var t=class extends e{constructor(e,t,n,r,i,a,o,s,c){super(e,t,n,r,i,a,o,s,c),this.isCanvasTexture=!0,this.needsUpdate=!0}};export{t};
