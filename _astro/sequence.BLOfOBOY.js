@@ -1,0 +1,1 @@
+var e={ready:700,command:1300,motor:2400,process:3200,purge:1800,open:1200,return:2400,inspect:3600,complete:1e3,reset:4e3},t=[`ready`,`command`,`motor`,`process`,`purge`,`open`,`return`,`inspect`,`complete`,`reset`],n=e=>[`purge`,`open`,`return`,`inspect`,`reset`].includes(e)?`complete`:e;export{t as n,e as r,n as t};

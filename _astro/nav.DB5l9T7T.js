@@ -1,0 +1,1 @@
+import{n as e,r as t}from"./storage.DyeC8c9k.js";var n=!1;document.addEventListener(`astro:after-swap`,()=>{n=!0});var r=()=>n;document.addEventListener(`click`,n=>{n.target instanceof Element&&n.target.closest(`[data-to-start]`)&&e.set(t.view,`intro`)});export{r as t};
